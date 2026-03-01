@@ -40,7 +40,7 @@ Se recomienda revisarla periódicamente.
 
 Si tienes preguntas sobre esta política puedes contactarnos en:
 
-Email: Jca.creatios.studio@email.com  
+Email: jca.creations.studio@email.com  
 Desarrollador: Juan Carlos Martínez De la Cruz (Zesury)
 
 © 2026 JCA Creations Studio. Todos los derechos reservados.
